@@ -1,4 +1,11 @@
-/* Enter the code to remove the main node element under this comment */
+
+/*Enter the code to remove the main node element under this comment */
+main.remove()
 
 /* Create your new element here and assign it to newHeader */
-const newHeader = null;
+
+var newHeader = document.createElement("h1")
+newHeader.id = "victory"
+
+newHeader.innerText = "claire is the champion!"; 
+document.body.appendChild(newHeader)
