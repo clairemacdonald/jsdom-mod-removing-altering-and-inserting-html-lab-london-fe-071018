@@ -1,4 +1,4 @@
-main.remove(/* Enter the code to remove the main node element under this comment */
+var list = document.getElementById("main");Enter the code to remove the main node element under this comment */
 
 element.innerHTML = 'Hello, DOM!'
 element.style.newHeader = 'red';
